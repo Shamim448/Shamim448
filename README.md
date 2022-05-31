@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Shamim Hosen.. 👋
 
 - 🔭 I’m currently working on Alim Knit (BD) Ltd. as an Asst. Manager-IT
 - 🌱 I’m currently learning on Full Stack Developer (ASP Dot Net)
@@ -9,3 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=shamim448&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
