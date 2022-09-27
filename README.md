@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Shamim Hosen</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
+## Shamim Hosen - ASP .Net Developer & Competitive Programming Lover
+I am Shamim from Bangladesh and I am an Asst.Manager IT by profession. I am a Full Stack ASP .Net core learner and Competitive Programming lover also.
+
+## Github Stats
+![Shamim's stat](https://github-readme-stats.vercel.app/api?username=Shamim448&show_icons=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamim448)
+
+## Skills
+* ASP .Net Core, C/C++.
+* HTML, CSS, Java Script.
+* SQL(Postgres), NoSQL(MongoDB).
+* Data Structures & Algorithms, Competitive Programming.
+* Computer Networking System.
+* VoIP, PA Syatem, Windows Server
+
+
+## Currently doing
+- 👨‍🏫 Service as an Asst. Manager IT..
+- 🔭 Learning ASP .Net,Cloud Computing, playing with docker containers.
+- 🌱 OOP. 
+
+
+## Work Experience
+* Officer IT (Alim Knit (BD) Ltd - 4 years)
+* Sr. Officer IT (Alim Knit (BD) Ltd - 2 years)
+* Asst. Manager I (Alim Knit (BD) Ltd - 2 years - Continue)
+
+## Leadership Skills
+* Captain (SAB-Online Batch 217)
+* Asst. Manager (Alim Knit (BD) Ltd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim448&label=Profile%20views&color=0e75b6&style=flat" alt="shamim448" /> </p>
 
