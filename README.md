@@ -2,9 +2,8 @@
 I am Shamim from Bangladesh and I am an Asst.Manager IT by profession. I am a Full Stack ASP .Net core learner and Competitive Programming lover also.
 
 ## Github Stats
-![Shamim's stat](https://github-readme-stats.vercel.app/api?username=Shamim448&show_icons=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamim448)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=shamim448&show_icons=true&locale=en&layout=compact)
+
 
 ## Skills
 * ASP .Net Core, C/C++.
