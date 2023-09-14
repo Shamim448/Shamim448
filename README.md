@@ -1,8 +1,11 @@
 ## Shamim Hosen - ASP .Net Developer & Competitive Programming Lover
-I am Shamim from Bangladesh and I am an Asst.Manager IT by profession. I am a Full Stack ASP .Net core learner and Competitive Programming lover also.
+I am Shamim from Bangladesh and I am an Asst.Manager IT by profession. I am a Full Stack ASP .Net core learner and a Competitive Programming lover.
 
-## Github Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shamim448)
+## My GitHub Stats:
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shamim448&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamim448&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
+</p>
 
 
 ## Skills
